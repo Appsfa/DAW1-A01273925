@@ -1,0 +1,326 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"proveedor"
+			],
+			[
+				"sa",
+				"say_hi_to_another"
+			],
+			[
+				"Fizz",
+				"FizzBuzz"
+			],
+			[
+				"fizz",
+				"fizzbuzz"
+			],
+			[
+				"Joys",
+				"JoystickButton"
+			],
+			[
+				"OI",
+				"OI"
+			],
+			[
+				"com",
+				"CommandBaseRobot"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"w",
+				"word"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alumno/Desktop/tiendita/app/models/usuario.js",
+		"/Users/alumno/Desktop/lol.py",
+		"/Users/alumno/Desktop/tiendita/app/routes/tiendita/config.js",
+		"/Users/alumno/Desktop/tiendita/app/templates/login.hbs",
+		"/Users/alumno/Desktop/tiendita/node_modules/firebase/package.json",
+		"/Users/alumno/Desktop/tiendita/node_modules/.bin/handlebars",
+		"/Users/alumno/Desktop/piko.py",
+		"/Users/alumno/Documents/FIRST/piko.py",
+		"/Users/alumno/Documents/FIRST/robado.py",
+		"/Users/alumno/Documents/FIRST/time ",
+		"/Users/alumno/Desktop/first_test_karen.py",
+		"/Users/alumno/Documents/FIRST/examen.py",
+		"/Users/alumno/ho.py",
+		"/Users/alumno/Documents/FIRST/piloto.py",
+		"/Users/alumno/Documents/FIRST/numeros.py",
+		"/Users/alumno/Documents/FIRST/Ejercicio ",
+		"/Users/alumno/Desktop/League of Legends.app/Contents/LoL/Config/LeagueClientSettings.yaml",
+		"/Users/alumno/Documents/command-based-robotcode/robot.py",
+		"/Users/alumno/Documents/command-based-robotcode/commands/TurboDrive.py",
+		"/Users/alumno/Documents/command-based-robotcode/oi.py",
+		"/Users/alumno/Documents/command-based-robotcode/commands/FollowJoystick.py",
+		"/Users/alumno/Documents/command-based-robotcode/subsystems/drivetrain.py",
+		"/Users/alumno/Documents/modules/subsystems/drivetrain.py",
+		"/Users/alumno/Documents/modules/commands/FollowJoystick.py",
+		"/Users/alumno/Documents/modules/subsystems/oi.py",
+		"/Users/alumno/Documents/main.py",
+		"/Users/alumno/Documents/functions.py",
+		"/Users/alumno/Documents/func_b.py",
+		"/Users/alumno/Desktop/code.html",
+		"/Users/alumno/FIRST/hola.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"config.js",
+				"app/routes/tiendita/config.js"
+			],
+			[
+				"config",
+				"app/templates/tiendita/config.hbs"
+			],
+			[
+				"categoria",
+				"app/models/categoria.js"
+			],
+			[
+				"usuario",
+				"app/models/usuario.js"
+			],
+			[
+				"proveedor",
+				"app/models/proveedor.js"
+			],
+			[
+				"almace",
+				"app/models/almacen.js"
+			],
+			[
+				"producto",
+				"app/models/producto.js"
+			],
+			[
+				"router",
+				"app/router.js"
+			],
+			[
+				"cat",
+				"app/models/categoria.js"
+			],
+			[
+				"prove",
+				"app/models/proveedor.js"
+			],
+			[
+				"almacen",
+				"app/models/almacen.js"
+			],
+			[
+				"login",
+				"app/controllers/tiendita/login.js"
+			],
+			[
+				"singin",
+				"app/controllers/tiendita/singin.js"
+			],
+			[
+				"usu",
+				"app/models/usuario.js"
+			],
+			[
+				"firebase/pac",
+				"node_modules/firebase/package.json"
+			],
+			[
+				"tiendita/singin",
+				"app/controllers/tiendita/singin.js"
+			],
+			[
+				"envi",
+				"config/environment.js"
+			],
+			[
+				"handle",
+				"node_modules/.bin/handlebars"
+			],
+			[
+				"",
+				"~/Documents/modules/subsystems/oi.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 419.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

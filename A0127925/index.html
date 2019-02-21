@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>A01273925</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+	<link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+	<script type="text/javascript">
+		function simpleAlert() {
+			var xmlHttp = new XMLHttpRequest();
+	    xmlHttp.onreadystatechange = function() { 
+	        if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+	            callback(xmlHttp.responseText);
+	    }
+	    xmlHttp.open("GET", "https://yvone.github.io/DAW/some-numbers.json", true); // true for asynchronous 
+	    xmlHttp.send(null);
+		}
+	</script>
+</head>
+<body>
+	<main class="container px-3">
+		<div class="mb-1 col">
+			<img src="assets/logo_icon.png" width="5%">
+		</div>
+
+		<div class="col-1 text-center mb-1">
+			<h4 class="d-inline"><b>Scan Tongue</b></h4><i class="material-icons d-inline icon-sm text-secondary">info</i>
+		</div>
+
+		<div class="text-center text-secondary col-1 mb-2">
+			Put your tongue under the scanner so that it is touching. Press util purple light stops.
+		</div>
+
+		<div class="col-1 text-center">
+			1.
+			<img src="assets/imgA.png" width="10%">
+		</div>
+
+		<div class="col-1 text-center">
+			2.
+			<img src="assets/imgB.png" width="10%">
+		</div>
+
+		<div class="col-1 text-center mb-4">
+			3.
+			<img src="assets/imgC.png" width="10%">
+		</div>
+
+		<div class="col-1 text-center">
+			<button onclick="simpleAlert()" type="button" class="btn-primary">Begin</button>
+		</div>
+	</main>
+</body>
+</html>
