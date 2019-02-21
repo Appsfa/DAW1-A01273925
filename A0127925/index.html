@@ -12,10 +12,16 @@
 			var xmlHttp = new XMLHttpRequest();
 	    xmlHttp.onreadystatechange = function() { 
 	        if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
-	            callback(xmlHttp.responseText);
+	            var myArr = JSON.parse(xmlHttp.responseText);
+	        	console.log(myArr);
+	        	alert(JSON.stringify(myArr));
 	    }
 	    xmlHttp.open("GET", "https://yvone.github.io/DAW/some-numbers.json", true); // true for asynchronous 
-	    xmlHttp.send(null);
+	    xmlHttp.send();
+	    // xmlHttp.onload() => {
+	    // 		let 
+	    // 	}
+
 		}
 	</script>
 </head>
